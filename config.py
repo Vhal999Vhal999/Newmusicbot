@@ -12,13 +12,13 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME","II_RAJPUT_SHIV_OP_II")
+OWNER_USERNAME = getenv("OWNER_USERNAME","II_ROYALENTRY1128_II")
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "GaanaMusic_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Queenhoneybot")
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "𝗚𝗮𝗮𝗻𝗮 𝗠𝘂𝘀𝗶𝗰 🎶")
+BOT_NAME = getenv("BOT_NAME" , "Queen 𝗠𝘂𝘀𝗶𝗰 🎶")
 #get Your Assistant User name
-ASSUSERNAME = getenv("ASSUSERNAME" , "𝗚𝗮𝗮𝗻𝗮 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 🎶")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Queen Music 🎶")
 EVALOP = list(map(int, getenv("EVALOP", "6955568347").split()))
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -46,8 +46,8 @@ GIT_TOKEN = getenv(
    "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Dns_Official_Channel")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DNS_NETWORK")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ll_DPZ_WORLDS_ll")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/queenbotgrup")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
